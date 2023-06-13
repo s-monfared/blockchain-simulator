@@ -1,0 +1,30 @@
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   11.11%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.3MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   11.11%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.3MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   12.08%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   12.08%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   11.20%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   11.20%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   12.34%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   12.34%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   32.23%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   32.23%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   9.22%     178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   9.22%     178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   13.16%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   13.16%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
+[2J[HCONTAINER ID   NAME                     CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O         PIDS
+ad36017a10ec   algorand-sandbox-algod   24.35%    178.5MiB / 7.668GiB   2.27%     1.28MB / 3.3MB   4.67MB / 25.6MB   27
