@@ -1,0 +1,64 @@
+{
+    "Genesis": {
+        "NetworkName": "devmodenet",
+        "FirstPartKeyRound": 0,
+        "LastPartKeyRound":  NETWORK_NUM_ROUNDS,
+        "Wallets": [
+            {
+                "Name": "Wallet1",
+                "Stake": 20,
+                "Online": true
+            },
+            {
+                "Name": "Wallet2",
+                "Stake": 20,
+                "Online": true
+            },
+            {
+                "Name": "Wallet3",
+                "Stake": 20,
+                "Online": true
+            },
+            {
+                "Name": "Wallet4",
+                "Stake": 20,
+                "Online": true
+            },
+            {
+                "Name": "Wallet5",
+                "Stake": 20,
+                "Online": true
+            }
+        ],
+        "DevMode": false,
+        "RewardsPoolBalance": 0
+    },
+    "Nodes": [
+        {
+            "Name": "Node",
+            "IsRelay": false,
+            "Wallets": [
+                { 
+                    "Name": "Wallet1", 
+                    "ParticipationOnly": false 
+                },
+                { 
+                    "Name": "Wallet2", 
+                    "ParticipationOnly": false 
+                },
+                { 
+                    "Name": "Wallet3", 
+                    "ParticipationOnly": false 
+                },
+                { 
+                    "Name": "Wallet4", 
+                    "ParticipationOnly": false 
+                },
+                { 
+                    "Name": "Wallet5", 
+                    "ParticipationOnly": false 
+                }
+            ]
+        }
+    ]
+}
